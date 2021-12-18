@@ -38,7 +38,7 @@ const Profile = () => {
   };
 
   useEffect(() => {
-    getData();
+    // getData();
     axios
       .request(options)
       .then(response => {
