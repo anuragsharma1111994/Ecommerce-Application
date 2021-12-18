@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-platform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anurag Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^6.4.0"
+  }
+}
